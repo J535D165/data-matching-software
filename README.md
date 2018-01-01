@@ -4,7 +4,9 @@ This is a list of Record Linkage software.
 
 The term record linkage is used to indicate the procedure of bringing together information from two or more records that are believed to belong to the same entity. Record linkage is used to link data from multiple data sources or to find duplicates in a single data source. 
 
-*keywords:* record linkage, data matching, deduplication, fuzzy matching
+*Similar terms:* record linkage, data matching, deduplication, fuzzy matching
+
+All content in is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
 ## Free
 
