@@ -21,5 +21,6 @@ This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 ## Commercial 
 
 - [DataMatch (by Data Ladder)](https://dataladder.com/data-matching-software/) Affordable comprehensive toolkits for deduplication, standardization, and fuzzy matching. 
+- [Dedupe.io (by DataMade)](https://dedupe.io/) Commercial implementation of Dedupe. Dedupe.io matches records in the cloud and provides a browser-based GUI for contructing training data. 
 
  
