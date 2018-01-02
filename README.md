@@ -23,4 +23,6 @@ This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 - [DataMatch (by Data Ladder)](https://dataladder.com/data-matching-software/) Affordable comprehensive toolkits for deduplication, standardization, and fuzzy matching. 
 - [Dedupe.io (by DataMade)](https://dedupe.io/) Commercial implementation of Dedupe. Dedupe.io matches records in the cloud and provides a browser-based GUI for contructing training data. 
 
- 
+## Outdated/ no longer available
+
+- BigMatch (by USA census) A record linkage tool for use in matching a very large file against a moderate size file developed by the USA Census Bureau. There are several papers available about this program [(BigMatch, 2007)](https://www.census.gov/srd/papers/pdf/rrc2007-01.pdf) 
