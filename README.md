@@ -2,7 +2,7 @@
 
 This is a list of (Fuzzy) Data Matching software. 
 
-The term data matching is used to indicate the procedure of bringing together information from two or more records that are believed to belong to the same entity. Data matching has two applications: (1) to match data across multiple datasets and (2) to match data within a dataset. See the [Wikipedia page](https://en.wikipedia.org/wiki/Record_linkage) for more information. 
+The term data matching is used to indicate the procedure of bringing together information from two or more records that are believed to belong to the same entity. Data matching has two applications: (1) to match data across multiple datasets and (2) to match data within a dataset. See the [Wikipedia page](https://en.wikipedia.org/wiki/Record_linkage) about data matching for more information. 
 
 *Similar terms:* record linkage, data matching, deduplication, fuzzy matching, entity resolution
 
