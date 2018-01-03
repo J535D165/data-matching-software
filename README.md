@@ -16,7 +16,7 @@ This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 
 - [FERBL](https://sourceforge.net/projects/febrl/) - Febrl (Freely Extensible Biomedical Record Linkage) is a training tool suitable for users to learn and experiment with record linkage techniques, as well as for practitioners to conduct linkages with data sets containing up to several hundred thousand records. Febrl is a data matching tool with a large number of algorithms implemented and offers a Python programming interface as well as simple GUI. Febrl doesn't offer unsupervised and active learning algorithms. The software is now longer actively maintained. ([Christen, 2008](http://crpit.com/confpapers/CRPITV80Christen.pdf)) [[source code]](https://sourceforge.net/projects/febrl/) `Python`
 
-- [FRIL](http://fril.sourceforge.net/) - FRIL is FREE open source tool that enables fast and easy record linkage. The tool extends traditional record linkage tools with a richer set of parameters. `Java`
+- [FRIL](http://fril.sourceforge.net/) - FRIL (Fine-grained Records Integration and Linkage tool) is free tool that enables record linkage through a GUI. The tool implements automatic weights estimation through the EM-algorithm and offers serveral techniques to make record pairs. FRIL was developed by the Emory University and is not longer maintained. [[source code]](http://fril.sourceforge.net/download.html) `Java`
 
 - [FuzzyMatcher](https://pypi.python.org/pypi/fuzzymatcher) - A Python package that allows the user to fuzzy match two pandas dataframes based on one or more fields in common. The functionality is limited at the moment. `MIT` `Python`
 
