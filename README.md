@@ -8,7 +8,7 @@ The term data matching is used to indicate the procedure of bringing together in
 
 This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
-## Free
+## Software
 
 - [Dedupe](https://github.com/dedupeio/dedupe) - Dedupe is a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data. [[source code]](https://github.com/dedupeio/dedupe) `MIT` `Python`
 
