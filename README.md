@@ -12,7 +12,7 @@ This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 
 - [Dedupe](https://github.com/dedupeio/dedupe) - Dedupe is a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data. `MIT` `Python`
 
-- [FERBL](https://sourceforge.net/projects/febrl/) - Data standardisation (segmentation and cleaning) and probabilistic record linkage ("fuzzy" matching) of one or more files or data sources which do not share a unique record key or identifier. `Python`
+- [FERBL](https://sourceforge.net/projects/febrl/) - Febrl (Freely Extensible Biomedical Record Linkage) is a training tool suitable for users to learn and experiment with record linkage techniques, as well as for practitioners to conduct linkages with data sets containing up to several hundred thousand records. Febrl is a data matching tool with the large number of algorithms implemented and offers a programming interface as well as simple GUI. Febrl doesn't offer unsupervised and active learning algorithms. The software is now longer actively maintained. ([Christen, 2008](http://crpit.com/confpapers/CRPITV80Christen.pdf)) `Python`
 
 - [FRIL](http://fril.sourceforge.net/) - FRIL is FREE open source tool that enables fast and easy record linkage. The tool extends traditional record linkage tools with a richer set of parameters. `Java`
 
