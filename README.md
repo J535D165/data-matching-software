@@ -11,12 +11,19 @@ This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 ## Free
 
 - [Dedupe](https://github.com/dedupeio/dedupe) - Dedupe is a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data. `MIT` `Python`
+
 - [FERBL](https://sourceforge.net/projects/febrl/) - Data standardisation (segmentation and cleaning) and probabilistic record linkage ("fuzzy" matching) of one or more files or data sources which do not share a unique record key or identifier. `Python`
+
 - [FRIL](http://fril.sourceforge.net/) - FRIL is FREE open source tool that enables fast and easy record linkage. The tool extends traditional record linkage tools with a richer set of parameters. `Java`
+
 - [FuzzyMatcher](https://pypi.python.org/pypi/fuzzymatcher) - A Python package that allows the user to fuzzy match two pandas dataframes based on one or more fields in common. The functionality is limited at the moment. `MIT` `Python`
+
 - [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) - The Python Record Linkage Toolkit is a library to link records in or between data sources. The toolkit provides most of the tools needed for record linkage and deduplication. The package is developed for research and the linking of small or medium sized files. `GPL-3.0` `Python`
+
 - [Record Linkage](https://cran.r-project.org/web/packages/RecordLinkage/index.html) - Provides functions for linking and de-duplicating data sets. Methods based on a stochastic approach are implemented as well as classification algorithms from the machine learning domain. `GPL-3.0` `R`
+
 - [RELAIS](http://www.istat.it/en/tools/methods-and-it-tools/processing-tools/relais) - RELAIS (REcord Linkage At IStat) is a toolkit providing a set of techniques for dealing with record linkage projects. IStat is the main producer of official statistics in Italy. `EUPL-1.1` `R/Java`
+
 - [The Link King](http://www.the-link-king.com/) - The Link King’s graphical user interface (GUI) makes record linkage and unduplication easy for beginning and advanced users. The software requires a SAS license. `SAS`
 
 ## Outdated/ no longer available
