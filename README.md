@@ -22,6 +22,8 @@ This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 
 - [JedAI](http://jedai.scify.org/) Java gEneric DAta Integration (JedAI) Toolkit is a Entity Resolution Tool developed by a group of univeristies. JedAI offers a Graphical User Interface. [[source code]](https://github.com/scify/JedAIToolkit) `Apache License 2.0` `Java` 
 
+- [PRIL](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) - PRIL (Point-of-contact Interactive Record Linkage) is a record linkage program with a GUI. PRIL can be used to link datasets about individuals. ([Rentsch CT, Kabudula CW, Catlett J et al., 2017](https://gatesopenresearch.org/articles/1-8/v1)) [[source code]](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) `MIT` `SQLPL`
+
 - [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) - The Python Record Linkage Toolkit is a library to link records in or between data sources. The toolkit provides most of the tools needed for record linkage and deduplication. The package is developed for research and the linking of small or medium sized files. [[source code]](https://github.com/J535D165/recordlinkage) `GPL-3.0` `Python`
 
 - [Record Linkage](https://cran.r-project.org/web/packages/RecordLinkage/index.html) - Provides functions for linking and de-duplicating data sets. Methods based on a stochastic approach are implemented as well as classification algorithms from the machine learning domain. `GPL-3.0` `R`
