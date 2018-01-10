@@ -10,7 +10,7 @@ This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 
 ## Software
 
-- [Dedupe](https://github.com/dedupeio/dedupe) - Dedupe is a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data. [[source code]](https://github.com/dedupeio/dedupe) `MIT` `Python`
+- [Dedupe](https://github.com/dedupeio/dedupe) - Dedupe is a python library for fuzzy matching, deduplication and entity resolution on structured data. The library makes use of active learning to match record pairs. Active learning is useful in cases without training data. Dedupe has a side-product for deduplicating CSV files, [csvdedupe](https://github.com/dedupeio/csvdedupe), through the command line. Dedupeio also offers commercial products for data matching.  [[source code]](https://github.com/dedupeio/dedupe) `MIT` `Python`
 
 - [fastLink](https://cran.r-project.org/web/packages/fastLink/index.html) - Implements a Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. This includes functionalities to conduct a merge of two datasets under the Fellegi-Sunter model using the Expectation-Maximization algorithm. fastLink is a programming API written in R. ([Enamorado, Fifield & Imai, 2017](http://imai.princeton.edu/research/files/linkage.pdf))  [[source code]](https://github.com/kosukeimai/fastLink) `GPL-3.0` `R`
 
