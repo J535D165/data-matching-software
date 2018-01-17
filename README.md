@@ -26,7 +26,7 @@ This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 
 - [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) - The Python Record Linkage Toolkit is a library to link records in or between data sources. The toolkit provides most of the tools needed for record linkage and deduplication. The package is developed for research and the linking of small or medium sized files. [[source code]](https://github.com/J535D165/recordlinkage) `GPL-3.0` `Python`
 
-- [Record Linkage](https://cran.r-project.org/web/packages/RecordLinkage/index.html) - Provides functions for linking and de-duplicating data sets. Methods based on a stochastic approach are implemented as well as classification algorithms from the machine learning domain. `GPL-3.0` `R`
+- [RecordLinkage (R)](https://cran.r-project.org/web/packages/RecordLinkage/index.html) - Package written in R that provides functions for linking and de-duplicating data sets. Both supervised and unsupervised classification algorithms are available. Record pairs can be compared with a limited set of algorithms. The package is published on CRAN. `GPL-3.0` `R`
 
 - [RELAIS](http://www.istat.it/en/tools/methods-and-it-tools/processing-tools/relais) - RELAIS (REcord Linkage At IStat) is a toolkit providing a set of techniques for dealing with record linkage projects. IStat is the main producer of official statistics in Italy. `EUPL-1.1` `R/Java`
 
