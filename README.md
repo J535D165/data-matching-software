@@ -6,8 +6,6 @@ The term data matching is used to indicate the procedure of bringing together in
 
 *Similar terms:* record linkage, data matching, deduplication, fuzzy matching, entity resolution
 
-This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
-
 
 The table below gives a dense overview of data matching software properties.
 The properties evaluated are [Application Programming
@@ -76,3 +74,16 @@ The Link King’s graphical user interface (GUI) makes record linkage and undupl
 
 #### BigMatch (by USA census)
 A record linkage tool for use in matching a very large file against a moderate size file developed by the USA Census Bureau. There are several papers available about this program [(BigMatch, 2007)](https://www.census.gov/srd/papers/pdf/rrc2007-01.pdf) 
+
+## Contributing
+
+Do you know an open source and/or free data matching tool? Please open an
+issue or do a Pull Request. The same holds for missing or incomplete
+information.
+
+This project is initiated by the author of the [Python Record Linkage
+Toolkit](https://github.com/J535D165/recordlinkage) @J535D165. The aim is to
+get a list and comparison of data matching software. 
+
+This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/). 
+
