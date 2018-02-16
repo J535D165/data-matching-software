@@ -36,6 +36,7 @@ Learning](https://en.wikipedia.org/wiki/Active_learning).
 | [Python Record Linkage Toolkit](#python-record-linkage-toolkit) | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
 | [RecordLinkage (R)](#recordlinkage-r)                           | R      |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
 | [RELAIS](#relais)                                               | :x:    | :white_check_mark: | :white_check_mark: |  :grey_question:   |      :grey_question:      |     :white_check_mark:      |          :x:          |
+| [ReMaDDer](#remadder)                                           | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
 | [The Link King](#the-link-king)                                 | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :grey_question:      |     :white_check_mark:      |          :x:          |
 
 :white_check_mark: Yes/Implemented
@@ -126,6 +127,14 @@ package is published on CRAN. `GPL-3.0` `R`
 RELAIS (REcord Linkage At IStat) is a toolkit providing a set of techniques
 for dealing with record linkage projects. IStat is the main producer of
 official statistics in Italy. `EUPL-1.1` `R/Java`
+
+#### [ReMaDDer](http://remaddersoft.wixsite.com/remadder)
+
+ReMaDDer is unsupervised free fuzzy data matching software with a GUI.
+ReMaDDer is capable to perform fully automatic fuzzy record matching without
+human expert intervention, while attaining accuracy of human clerical review.
+NOTE: The software is free, but not open source and requires an internet
+connection to work.
 
 #### [The Link King](http://www.the-link-king.com/) 
 
