@@ -8,20 +8,34 @@ The term data matching is used to indicate the procedure of bringing together in
 
 This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
-| Software                                                        | API    | GUI | License            | Open Source |
-|:----------------------------------------------------------------|:-------|:----|:-------------------|:------------|
-| [Dedupe](#dedupe)                                               | Python | No  | MIT                | Yes         |
-| [fastLink](#fastlink)                                           | R      | No  | GPL-3.0            | Yes         |
-| [FEBRL](#febrl)                                                 | Python | Yes | ANUOS-1.3          | Yes         |
-| [FRIL](#fril)                                                   | Java   | Yes | MIT                |             |
-| [FuzzyMatcher](#fuzzymatcher)                                   | Python | No  | MIT                | Yes         |
-| [JedAI](#jedai)                                                 | Java   | Yes | Apache License 2.0 |             |
-| [PRIL](#pril)                                                   | SQLPL  | No  | MIT                |             |
-| [Python Record Linkage Toolkit](#python-record-linkage-toolkit) | Python | No  | GPL-3.0            | Yes         |
-| [RecordLinkage (R)](#recordlinkage-r)                           | R      | No  |                    | Yes         |
-| [RELAIS](#relais)                                               | Java   | Yes | EUPL-1.1           |             |
-| [The Link King](#the-link-king)                                 | SAS    | Yes |                    |             |
 
+The table below gives a dense overview of data matching software properties.
+The properties evaluated are [Application Programming
+Interface (API)](https://en.wikipedia.org/wiki/Application_programming_interface),
+[Graphical User Interface
+(GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface), Linking,
+Deduplication, [Supervised
+Learning](https://en.wikipedia.org/wiki/Supervised_learning), [Unsupervised
+Learning](https://en.wikipedia.org/wiki/Unsupervised_learning) and [Active
+Learning](https://en.wikipedia.org/wiki/Active_learning).
+
+| Software                                                        | API    |        GUI         |        Link        |       Dedup        | Supervised <br/> Learning | Unsupervised <br/> Learning | Active <br/> Learning |
+|:----------------------------------------------------------------|:-------|:------------------:|:------------------:|:------------------:|:-------------------------:|:---------------------------:|:---------------------:|
+| [Dedupe](#dedupe)                                               | Python |        :x:         | :white_check_mark: | :white_check_mark: |            :x:            |             :x:             |  :white_check_mark:   |
+| [fastLink](#fastlink)                                           | R      |        :x:         | :white_check_mark: |  :grey_question:   |            :x:            |     :white_check_mark:      |          :x:          |
+| [FEBRL](#febrl)                                                 | Python | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |             :x:             |          :x:          |
+| [FRIL](#fril)                               :grey_question:     | Java   | :white_check_mark: | :white_check_mark: |        :x:         |      :grey_question:      |     :white_check_mark:      |          :x:          |
+| [FuzzyMatcher](#fuzzymatcher)                                   | Python |        :x:         | :white_check_mark: |        :x:         |            :x:            |     :white_check_mark:      |          :x:          |
+| [JedAI](#jedai)                                                 | Java   | :white_check_mark: | :white_check_mark: |  :grey_question:   |    :white_check_mark:     |       :grey_question:       |    :grey_question:    |
+| [PRIL](#pril)                                                   | SQL    |        :x:         | :white_check_mark: |  :grey_question:   |      :grey_question:      |       :grey_question:       |    :grey_question:    |
+| [Python Record Linkage Toolkit](#python-record-linkage-toolkit) | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
+| [RecordLinkage (R)](#recordlinkage-r)                           | R      |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
+| [RELAIS](#relais)                                               | :x:    | :white_check_mark: | :white_check_mark: |  :grey_question:   |      :grey_question:      |     :white_check_mark:      |          :x:          |
+| [The Link King](#the-link-king)                                 | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :grey_question:      |     :white_check_mark:      |          :x:          |
+
+:white_check_mark: Yes/Implemented
+:x: No/Not implemented
+:grey_question: Unknown
 
 ## Software
 
