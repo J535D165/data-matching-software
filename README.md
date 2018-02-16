@@ -8,19 +8,19 @@ The term data matching is used to indicate the procedure of bringing together in
 
 This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
-| Software                                                        | API    | GUI | License            |
-|:----------------------------------------------------------------|:-------|:----|:-------------------|
-| [Dedupe](#dedupe)                                               | Python | No  | MIT                |
-| [fastLink](#fastlink)                                           | R      | No  | GPL-3.0            |
-| [FEBRL](#febrl)                                                 | Python | Yes | ANUOS-1.3          |
-| [FRIL](#fril)                                                   | Java   | Yes | MIT                |
-| [FuzzyMatcher](#fuzzymatcher)                                   | Python | No  | MIT                |
-| [JedAI](#jedai)                                                 | Java   | Yes | Apache License 2.0 |
-| [PRIL](#pril)                                                   | SQLPL  | No  | MIT                |
-| [Python Record Linkage Toolkit](#python-record-linkage-toolkit) | Python | No  | GPL-3.0            |
-| [RecordLinkage (R)](#recordlinkage-r)                           | R      | No  |                    |
-| [RELAIS](#relais)                                               | Java   | Yes | EUPL-1.1           |
-| [The Link King](#the-link-king)                                 | SAS    | Yes |                    |
+| Software                                                        | API    | GUI | License            | Open Source |
+|:----------------------------------------------------------------|:-------|:----|:-------------------|:------------|
+| [Dedupe](#dedupe)                                               | Python | No  | MIT                | Yes         |
+| [fastLink](#fastlink)                                           | R      | No  | GPL-3.0            | Yes         |
+| [FEBRL](#febrl)                                                 | Python | Yes | ANUOS-1.3          | Yes         |
+| [FRIL](#fril)                                                   | Java   | Yes | MIT                |             |
+| [FuzzyMatcher](#fuzzymatcher)                                   | Python | No  | MIT                | Yes         |
+| [JedAI](#jedai)                                                 | Java   | Yes | Apache License 2.0 |             |
+| [PRIL](#pril)                                                   | SQLPL  | No  | MIT                |             |
+| [Python Record Linkage Toolkit](#python-record-linkage-toolkit) | Python | No  | GPL-3.0            | Yes         |
+| [RecordLinkage (R)](#recordlinkage-r)                           | R      | No  |                    | Yes         |
+| [RELAIS](#relais)                                               | Java   | Yes | EUPL-1.1           |             |
+| [The Link King](#the-link-king)                                 | SAS    | Yes |                    |             |
 
 
 ## Software
