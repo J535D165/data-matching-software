@@ -1,5 +1,10 @@
 # Data Matching software
 
+- [Overview](#overview)
+- [Software](#software)
+- [Outdated](#outdated-no-longer-available)
+- [Contributing](#contributing)
+
 This is a list of (Fuzzy) Data Matching software. The software in this list is
 open source and/or freely available.
 
@@ -13,6 +18,7 @@ more information.
 *Similar terms:* record linkage, data matching, deduplication, fuzzy matching,
     entity resolution
 
+## Overview
 
 The table below gives a dense overview of data matching software properties.
 The properties evaluated are [Application Programming Interface
