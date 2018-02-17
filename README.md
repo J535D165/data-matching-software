@@ -51,6 +51,9 @@ Learning](https://en.wikipedia.org/wiki/Active_learning).
 
 ## Software
 
+This section describes **data matching** software. The software is
+alphabetically ordered.
+
 #### [Dedupe](https://github.com/dedupeio/dedupe)
 
 Dedupe is a python library for fuzzy matching, deduplication and entity
