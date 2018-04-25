@@ -28,7 +28,7 @@ The properties evaluated are [Application Programming Interface
 Deduplication, [Supervised
 Learning](https://en.wikipedia.org/wiki/Supervised_learning), [Unsupervised
 Learning](https://en.wikipedia.org/wiki/Unsupervised_learning) and [Active
-Learning](https://en.wikipedia.org/wiki/Active_learning).
+Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 
 | Software                                                        | API    |        GUI         |        Link        |       Dedup        | Supervised <br/> Learning | Unsupervised <br/> Learning | Active <br/> Learning |
 |:----------------------------------------------------------------|:-------|:------------------:|:------------------:|:------------------:|:-------------------------:|:---------------------------:|:---------------------:|
