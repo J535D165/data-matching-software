@@ -11,9 +11,9 @@ open source and/or freely available.
 The term data matching is used to indicate the procedure of bringing together
 information from two or more records that are believed to belong to the same
 entity. Data matching has two applications: (1) to match data across multiple
-datasets and (2) to match data within a dataset. See the [Wikipedia
-page](https://en.wikipedia.org/wiki/Record_linkage) about data matching for
-more information.
+datasets (linkage) and (2) to match data within a dataset (deduplication).
+See the [Wikipedia page](https://en.wikipedia.org/wiki/Record_linkage) about
+data matching for more information.
 
 *Similar terms:* record linkage, data matching, deduplication, fuzzy matching,
     entity resolution
@@ -102,7 +102,7 @@ maintained. [[source code]](http://fril.sourceforge.net/download.html) `Java`
 
 A Python package that allows the user to fuzzy match two pandas dataframes
 based on one or more fields in common. The functionality is limited at the
-moment. `MIT` `Python`
+moment. [[source code]](https://github.com/RobinL/fuzzymatcher) `MIT` `Python`
 [![GitHub stars](https://img.shields.io/github/stars/RobinL/fuzzymatcher.svg?style=social&label=Star)](https://github.com/RobinL/fuzzymatcher)
 [![PyPI](https://img.shields.io/pypi/v/fuzzymatcher.svg)](https://pypi.python.org/pypi/fuzzymatcher/)
 
@@ -143,13 +143,13 @@ available. Record pairs can be compared with a limited set of algorithms. The
 package is published on CRAN. `GPL-3.0` `R` 
 [![CRAN](https://img.shields.io/cran/v/RecordLinkage.svg)](https://cran.r-project.org/web/packages/RecordLinkage/index.html)
 
-#### [RELAIS](http://www.istat.it/en/tools/methods-and-it-tools/processing-tools/relais) 
+#### [RELAIS](https://www.istat.it/en/methods-and-tools/methods-and-it-tools/process/processing-tools/relais)
 
 RELAIS (REcord Linkage At IStat) is a toolkit providing a set of techniques
 for dealing with record linkage projects. IStat is the main producer of
 official statistics in Italy. `EUPL-1.1` `R/Java`
 
-#### [ReMaDDer](http://remaddersoft.wixsite.com/remadder)
+#### [ReMaDDer](http://remadder.findmysoft.com/)
 
 ReMaDDer is unsupervised free fuzzy data matching software with a GUI.
 ReMaDDer is capable to perform fully automatic fuzzy record matching without
@@ -183,4 +183,3 @@ Toolkit](https://github.com/J535D165/recordlinkage) @J535D165. The aim is to
 get a list and comparison of data matching software. 
 
 This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/). 
-
