@@ -44,6 +44,8 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 | [RELAIS](#relais)                                               | :x:    | :white_check_mark: | :white_check_mark: |  :grey_question:   |      :grey_question:      |     :white_check_mark:      |          :x:          |
 | [ReMaDDer](#remadder)                                           | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
 | [The Link King](#the-link-king)                                 | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :grey_question:      |     :white_check_mark:      |          :x:          |
+| [AtyImo](#atyimo)		                                  | PySpark|         :x:	| :white_check_mark: | :white_check_mark: |            :x:            |             :x:               |          :x:          |
+
 
 :white_check_mark: Yes/Implemented
 :x: No/Not implemented
@@ -162,6 +164,13 @@ connection to work.
 The Link King’s graphical user interface (GUI) makes record linkage and
 unduplication easy for beginning and advanced users. The software requires a
 SAS license. `SAS`
+
+#### [AtyImo](https://github.com/pierrepita/atyimo)
+AtyImo implements a mixture of deterministic and probabilistic routines for data 
+linkage. Initially developed in 2013 to serve as a linkage tool supporting a joint 
+Brazil–U.K. project aiming at building a large population-based cohort with data 
+from more than 100 million participants and producing disease-specific data to facilitate 
+diverse epidemiological research studies.
 
 ## Outdated/ no longer available
 
