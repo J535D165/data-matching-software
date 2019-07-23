@@ -96,7 +96,7 @@ well as for practitioners to conduct linkages with data sets containing up to
 several hundred thousand records. Febrl is a data matching tool with a large
 number of algorithms implemented and offers a Python programming interface as
 well as simple GUI. Febrl doesn't offer unsupervised and active learning
-algorithms. The software is now longer actively maintained. ([Christen,
+algorithms. The software is no longer actively maintained. ([Christen,
 2008](http://crpit.com/confpapers/CRPITV80Christen.pdf)) [[source
 code]](https://sourceforge.net/projects/febrl/) `Python`
 
