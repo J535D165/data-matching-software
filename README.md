@@ -44,7 +44,7 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 | [RecordLinkage (R)](#recordlinkage-r)                           | R      |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
 | [RELAIS](#relais)                                               | :x:    | :white_check_mark: | :white_check_mark: |  :grey_question:   |      :grey_question:      |     :white_check_mark:      |          :x:          |
 | [ReMaDDer](#remadder)                                           | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
-| [Splink](#splink)                                               | Python |        :x:         | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
+| [Splink](#splink)                                               | PySpark|        :x:         | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
 | [The Link King](#the-link-king)                                 | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :grey_question:      |     :white_check_mark:      |          :x:          |
 
 
