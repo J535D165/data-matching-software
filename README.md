@@ -173,9 +173,9 @@ connection to work.
 `splink` is a Python package that implements Fellegi-Sunter's canonical model of
 record linkage in Apache Spark, including the EM algorithm to estimate parameters of the model.
 It is able to perform linking and deduplication of very large datasets of tens of millions
-of records with runtimes of less than an hour.  `MIT` `Python` `Spark`
-
-[![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social&label=Star)](https://github.com/pierrepita/atyimo)
+of records with runtimes of less than an hour.  [source
+code]](https://github.com/moj-analytical-services/splink) `MIT` `Python` `Spark`
+[![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social&label=Star)](https://github.com/moj-analytical-services/splink)
 
 #### [The Link King](http://www.the-link-king.com/)
 
