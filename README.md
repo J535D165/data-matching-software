@@ -44,6 +44,7 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 | [RecordLinkage (R)](#recordlinkage-r)                           | R      |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
 | [RELAIS](#relais)                                               | :x:    | :white_check_mark: | :white_check_mark: |  :grey_question:   |      :grey_question:      |     :white_check_mark:      |          :x:          |
 | [ReMaDDer](#remadder)                                           | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
+| [Splink](#splink)                                               | Python |        :x:         | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
 | [The Link King](#the-link-king)                                 | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :grey_question:      |     :white_check_mark:      |          :x:          |
 
 
@@ -57,11 +58,11 @@ This section describes **data matching** software. The software is
 alphabetically ordered.
 
 #### [AtyImo](https://github.com/pierrepita/atyimo)
-AtyImo implements a mixture of deterministic and probabilistic routines for data 
-linkage. Initially developed in 2013 to serve as a linkage tool supporting a joint 
-Brazil–U.K. project aiming at building a large population-based cohort with data 
-from more than 100 million participants and producing disease-specific data to facilitate 
-diverse epidemiological research studies. `MIT` `Python` `Spark` 
+AtyImo implements a mixture of deterministic and probabilistic routines for data
+linkage. Initially developed in 2013 to serve as a linkage tool supporting a joint
+Brazil–U.K. project aiming at building a large population-based cohort with data
+from more than 100 million participants and producing disease-specific data to facilitate
+diverse epidemiological research studies. `MIT` `Python` `Spark`
 [![GitHub stars](https://img.shields.io/github/stars/pierrepita/atyimo.svg?style=social&label=Star)](https://github.com/pierrepita/atyimo)
 
 #### [Dedupe](https://github.com/dedupeio/dedupe)
@@ -72,7 +73,7 @@ match record pairs. Active learning is useful in cases without training data.
 Dedupe has a side-product for deduplicating CSV files,
 [csvdedupe](https://github.com/dedupeio/csvdedupe), through the command line.
 Dedupeio also offers commercial products for data matching.  [[source
-code]](https://github.com/dedupeio/dedupe) `MIT` `Python` 
+code]](https://github.com/dedupeio/dedupe) `MIT` `Python`
 [![GitHub stars](https://img.shields.io/github/stars/dedupeio/dedupe.svg?style=social&label=Star)](https://github.com/dedupeio/dedupe)
 [![PyPI](https://img.shields.io/pypi/v/dedupe.svg)](https://pypi.python.org/pypi/dedupe/)
 
@@ -84,7 +85,7 @@ functionalities to conduct a merge of two datasets under the Fellegi-Sunter
 model using the Expectation-Maximization algorithm. fastLink is a programming
 API written in R. ([Enamorado, Fifield & Imai,
 2017](http://imai.princeton.edu/research/files/linkage.pdf))  [[source
-code]](https://github.com/kosukeimai/fastLink) `GPL-3.0` `R` 
+code]](https://github.com/kosukeimai/fastLink) `GPL-3.0` `R`
 [![GitHub stars](https://img.shields.io/github/stars/kosukeimai/fastLink.svg?style=social&label=Star)](https://github.com/kosukeimai/fastLink)
 [![CRAN](https://img.shields.io/cran/v/fastLink.svg)](https://cran.r-project.org/web/packages/fastLink/index.html)
 
@@ -108,7 +109,7 @@ estimation through the EM-algorithm and offers serveral techniques to make
 record pairs. FRIL was developed by the Emory University and is not longer
 maintained. [[source code]](http://fril.sourceforge.net/download.html) `Java`
 
-#### [FuzzyMatcher](https://pypi.python.org/pypi/fuzzymatcher) 
+#### [FuzzyMatcher](https://pypi.python.org/pypi/fuzzymatcher)
 
 A Python package that allows the user to fuzzy match two pandas dataframes
 based on one or more fields in common. The functionality is limited at the
@@ -116,14 +117,14 @@ moment. [[source code]](https://github.com/RobinL/fuzzymatcher) `MIT` `Python`
 [![GitHub stars](https://img.shields.io/github/stars/RobinL/fuzzymatcher.svg?style=social&label=Star)](https://github.com/RobinL/fuzzymatcher)
 [![PyPI](https://img.shields.io/pypi/v/fuzzymatcher.svg)](https://pypi.python.org/pypi/fuzzymatcher/)
 
-#### [JedAI](http://jedai.scify.org/) 
+#### [JedAI](http://jedai.scify.org/)
 
 Java gEneric DAta Integration (JedAI) Toolkit is a Entity Resolution Tool
 developed by a group of univeristies. JedAI offers a Graphical User Interface.
 [[source code]](https://github.com/scify/JedAIToolkit) `Apache License 2.0`
 `Java`
 
-#### [PRIL](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) 
+#### [PRIL](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware)
 
 PRIL (Point-of-contact Interactive Record Linkage) is a record linkage program
 with a GUI. PRIL can be used to link datasets about individuals. ([Rentsch CT,
@@ -134,23 +135,23 @@ code]](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) `MIT`
 [![GitHub stars](https://img.shields.io/github/stars/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware.svg?style=social&label=Star)](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware)
 
 
-#### [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) 
+#### [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage)
 
 The Python Record Linkage Toolkit is a library to link records in or between
 data sources. The toolkit provides most of the tools needed for record linkage
 and deduplication. The package is developed for research and the linking of
 small or medium sized files. [[source
-code]](https://github.com/J535D165/recordlinkage) `GPL-3.0` `Python` 
+code]](https://github.com/J535D165/recordlinkage) `GPL-3.0` `Python`
 [![GitHub stars](https://img.shields.io/github/stars/J535D165/recordlinkage.svg?style=social&label=Star)](https://github.com/J535D165/recordlinkage)
 [![PyPI](https://img.shields.io/pypi/v/recordlinkage.svg)](https://pypi.python.org/pypi/recordlinkage/)
 
 
-#### [RecordLinkage (R)](https://cran.r-project.org/web/packages/RecordLinkage/index.html) 
+#### [RecordLinkage (R)](https://cran.r-project.org/web/packages/RecordLinkage/index.html)
 
 Package written in R that provides functions for linking and de-duplicating
 data sets. Both supervised and unsupervised classification algorithms are
 available. Record pairs can be compared with a limited set of algorithms. The
-package is published on CRAN. `GPL-3.0` `R` 
+package is published on CRAN. `GPL-3.0` `R`
 [![CRAN](https://img.shields.io/cran/v/RecordLinkage.svg)](https://cran.r-project.org/web/packages/RecordLinkage/index.html)
 
 #### [RELAIS](https://www.istat.it/en/methods-and-tools/methods-and-it-tools/process/processing-tools/relais)
@@ -167,7 +168,16 @@ human expert intervention, while attaining accuracy of human clerical review.
 NOTE: The software is free, but not open source and requires an internet
 connection to work.
 
-#### [The Link King](http://www.the-link-king.com/) 
+#### [Splink](https://github.com/moj-analytical-services/splink)
+
+`splink` is a Python package that implements Fellegi-Sunter's canonical model of
+record linkage in Apache Spark, including the EM algorithm to estimate parameters of the model.
+It is able to perform linking and deduplication of very large datasets of tens of millions
+of records with runtimes of less than an hour.  `MIT` `Python` `Spark`
+
+[![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social&label=Star)](https://github.com/pierrepita/atyimo)
+
+#### [The Link King](http://www.the-link-king.com/)
 
 The Link King’s graphical user interface (GUI) makes record linkage and
 unduplication easy for beginning and advanced users. The software requires a
@@ -190,6 +200,6 @@ information.
 
 This project is initiated by the author of the [Python Record Linkage
 Toolkit](https://github.com/J535D165/recordlinkage) @J535D165. The aim is to
-get a list and comparison of data matching software. 
+get a list and comparison of data matching software.
 
-This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/). 
+This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
