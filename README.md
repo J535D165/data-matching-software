@@ -176,6 +176,7 @@ It is able to perform linking and deduplication of very large datasets of tens o
 of records with runtimes of less than an hour.  [source
 code]](https://github.com/moj-analytical-services/splink) `MIT` `Python` `Spark`
 [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social&label=Star)](https://github.com/moj-analytical-services/splink)
+[![PyPI](https://img.shields.io/pypi/v/splink.svg)](https://pypi.python.org/pypi/splink/)
 
 #### [The Link King](http://www.the-link-king.com/)
 
