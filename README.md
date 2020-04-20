@@ -44,6 +44,7 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 | [RecordLinkage (R)](#recordlinkage-r)                           | R      |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
 | [RELAIS](#relais)                                               | :x:    | :white_check_mark: | :white_check_mark: |  :grey_question:   |      :grey_question:      |     :white_check_mark:      |          :x:          |
 | [ReMaDDer](#remadder)                                           | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
+| [Splink](#splink)                                               | PySpark|        :x:         | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
 | [The Link King](#the-link-king)                                 | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :grey_question:      |     :white_check_mark:      |          :x:          |
 
 
@@ -166,6 +167,16 @@ ReMaDDer is capable to perform fully automatic fuzzy record matching without
 human expert intervention, while attaining accuracy of human clerical review.
 NOTE: The software is free, but not open source and requires an internet
 connection to work.
+
+#### [Splink](https://github.com/moj-analytical-services/splink)
+
+Splink is a Python/PySpark package that implements Fellegi-Sunter's canonical model of
+record linkage in Apache Spark. It uses the Expectation Maximisation algorithm to estimate
+parameters of the model. It is able to perform linking and deduplication of very large datasets
+of tens of millions of records with runtimes of less than an hour. [[source
+code]](https://github.com/moj-analytical-services/splink) `MIT` `Python` `Spark`
+[![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social&label=Star)](https://github.com/moj-analytical-services/splink)
+[![PyPI](https://img.shields.io/pypi/v/splink.svg)](https://pypi.python.org/pypi/splink/)
 
 #### [The Link King](http://www.the-link-king.com/) 
 
