@@ -42,6 +42,7 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 | [PRIL](#pril)                                                   | SQL    |        :x:         | :white_check_mark: |  :grey_question:   |      :grey_question:      |       :grey_question:       |    :grey_question:    |
 | [Python Record Linkage Toolkit](#python-record-linkage-toolkit) | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
 | [RecordLinkage (R)](#recordlinkage-r)                           | R      |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
+| [Reclin2](#reclin2)                           | R      |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :x:      |          :x:          |
 | [RELAIS](#relais)                                               | :x:    | :white_check_mark: | :white_check_mark: |  :grey_question:   |      :grey_question:      |     :white_check_mark:      |          :x:          |
 | [ReMaDDer](#remadder)                                           | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
 | [Splink](#splink)                                               | PySpark|        :x:         | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
@@ -153,6 +154,15 @@ data sets. Both supervised and unsupervised classification algorithms are
 available. Record pairs can be compared with a limited set of algorithms. The
 package is published on CRAN. `GPL-3.0` `R` 
 [![CRAN](https://img.shields.io/cran/v/RecordLinkage.svg)](https://cran.r-project.org/web/packages/RecordLinkage/index.html)
+
+#### [Reclin2](https://github.com/djvanderlaan/reclin2)
+
+Package written in R that provides functions for linking data sets. The framework offers
+the option to compute the weigths of the Fellegi-Sunter model. It doesn't implement an
+undersupervised algorithms to predict the cutoff. The
+package is published on CRAN. Formerly https://github.com/djvanderlaan/reclin. `GPL-3.0` `R` 
+[![GitHub stars](https://img.shields.io/github/stars/djvanderlaan/reclin2.svg?style=social&label=Star)](https://github.com/djvanderlaan/reclin2)
+[![CRAN](https://img.shields.io/cran/v/reclin2.svg)](https://cran.r-project.org/web/packages/reclin2/index.html)
 
 #### [RELAIS](https://www.istat.it/en/methods-and-tools/methods-and-it-tools/process/processing-tools/relais)
 
