@@ -46,7 +46,6 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 | [RELAIS](#relais)                                               | :x:    | :white_check_mark: | :white_check_mark: |  :grey_question:   |      :grey_question:      |     :white_check_mark:      |          :x:          |
 | [ReMaDDer](#remadder)                                           | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
 | [Splink](#splink)                                               | PySpark|        :x:         | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
-| [The Link King](#the-link-king)                                 | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |      :grey_question:      |     :white_check_mark:      |          :x:          |
 
 
 :white_check_mark: Yes/Implemented
@@ -206,12 +205,6 @@ code]](https://github.com/moj-analytical-services/splink)
 [![PyPI](https://img.shields.io/pypi/v/splink.svg)](https://pypi.python.org/pypi/splink/)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/splink)
 
-#### [The Link King](http://www.the-link-king.com/) 
-
-The Link King’s graphical user interface (GUI) makes record linkage and
-unduplication easy for beginning and advanced users. The software requires a
-SAS license. `SAS`
-
 ## Outdated/ no longer available
 
 #### BigMatch (by USA census)
@@ -220,6 +213,12 @@ A record linkage tool for use in matching a very large file against a moderate
 size file developed by the USA Census Bureau. There are several papers
 available about this program [(BigMatch,
 2007)](https://www.census.gov/srd/papers/pdf/rrc2007-01.pdf)
+
+#### [The Link King](http://the-link-king.party/) 
+
+The Link King’s graphical user interface (GUI) makes record linkage and
+unduplication easy for beginning and advanced users. The software requires a
+SAS license. `SAS`
 
 ## Contributing
 
