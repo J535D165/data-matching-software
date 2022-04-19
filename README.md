@@ -73,8 +73,8 @@ resolution on structured data. The library makes use of active learning to
 match record pairs. Active learning is useful in cases without training data.
 Dedupe has a side-product for deduplicating CSV files,
 [csvdedupe](https://github.com/dedupeio/csvdedupe), through the command line.
-Dedupeio also offers commercial products for data matching.  [[source
-code]](https://github.com/dedupeio/dedupe) `MIT` `Python` 
+Dedupeio also offers commercial products for data matching.  
+![PyPI - License](https://img.shields.io/pypi/l/dedupe) `Python` 
 [![GitHub stars](https://img.shields.io/github/stars/dedupeio/dedupe.svg?style=social&label=Star)](https://github.com/dedupeio/dedupe)
 [![PyPI](https://img.shields.io/pypi/v/dedupe.svg)](https://pypi.python.org/pypi/dedupe/)
 
@@ -86,7 +86,9 @@ functionalities to conduct a merge of two datasets under the Fellegi-Sunter
 model using the Expectation-Maximization algorithm. fastLink is a programming
 API written in R. ([Enamorado, Fifield & Imai,
 2017](http://imai.princeton.edu/research/files/linkage.pdf))  [[source
-code]](https://github.com/kosukeimai/fastLink) `GPL-3.0` `R` 
+code]](https://github.com/kosukeimai/fastLink) 
+
+![CRAN/METACRAN](https://img.shields.io/cran/l/fastLink) `R` 
 [![GitHub stars](https://img.shields.io/github/stars/kosukeimai/fastLink.svg?style=social&label=Star)](https://github.com/kosukeimai/fastLink)
 [![CRAN](https://img.shields.io/cran/v/fastLink.svg)](https://cran.r-project.org/web/packages/fastLink/index.html)
 
@@ -114,7 +116,9 @@ maintained. [[source code]](http://fril.sourceforge.net/download.html) `Java`
 
 A Python package that allows the user to fuzzy match two pandas dataframes
 based on one or more fields in common. The functionality is limited at the
-moment. [[source code]](https://github.com/RobinL/fuzzymatcher) `MIT` `Python`
+moment. [[source code]](https://github.com/RobinL/fuzzymatcher) 
+
+![PyPI - License](https://img.shields.io/pypi/l/fuzzymatcher) `Python` 
 [![GitHub stars](https://img.shields.io/github/stars/RobinL/fuzzymatcher.svg?style=social&label=Star)](https://github.com/RobinL/fuzzymatcher)
 [![PyPI](https://img.shields.io/pypi/v/fuzzymatcher.svg)](https://pypi.python.org/pypi/fuzzymatcher/)
 
@@ -141,8 +145,9 @@ code]](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) `MIT`
 The Python Record Linkage Toolkit is a library to link records in or between
 data sources. The toolkit provides most of the tools needed for record linkage
 and deduplication. The package is developed for research and the linking of
-small or medium sized files. [[source
-code]](https://github.com/J535D165/recordlinkage) `GPL-3.0` `Python` 
+small or medium sized files. 
+
+![PyPI - License](https://img.shields.io/pypi/l/recordlinkage) `Python` 
 [![GitHub stars](https://img.shields.io/github/stars/J535D165/recordlinkage.svg?style=social&label=Star)](https://github.com/J535D165/recordlinkage)
 [![PyPI](https://img.shields.io/pypi/v/recordlinkage.svg)](https://pypi.python.org/pypi/recordlinkage/)
 
@@ -152,7 +157,7 @@ code]](https://github.com/J535D165/recordlinkage) `GPL-3.0` `Python`
 Package written in R that provides functions for linking and de-duplicating
 data sets. Both supervised and unsupervised classification algorithms are
 available. Record pairs can be compared with a limited set of algorithms. The
-package is published on CRAN. `GPL-3.0` `R` 
+package is published on CRAN. ![CRAN/METACRAN](https://img.shields.io/cran/l/RecordLinkage) `R` 
 [![CRAN](https://img.shields.io/cran/v/RecordLinkage.svg)](https://cran.r-project.org/web/packages/RecordLinkage/index.html)
 
 #### [Reclin2](https://github.com/djvanderlaan/reclin2)
@@ -160,7 +165,7 @@ package is published on CRAN. `GPL-3.0` `R`
 Package written in R that provides functions for linking data sets. The framework offers
 the option to compute the weigths of the Fellegi-Sunter model. It doesn't implement an
 undersupervised algorithms to predict the cutoff. The
-package is published on CRAN. Formerly https://github.com/djvanderlaan/reclin. `GPL-3.0` `R` 
+package is published on CRAN. Formerly https://github.com/djvanderlaan/reclin. ![CRAN/METACRAN](https://img.shields.io/cran/l/reclin2) `R` 
 [![GitHub stars](https://img.shields.io/github/stars/djvanderlaan/reclin2.svg?style=social&label=Star)](https://github.com/djvanderlaan/reclin2)
 [![CRAN](https://img.shields.io/cran/v/reclin2.svg)](https://cran.r-project.org/web/packages/reclin2/index.html)
 
@@ -184,7 +189,8 @@ Splink is a Python/PySpark package that implements Fellegi-Sunter's canonical mo
 record linkage in Apache Spark. It uses the Expectation Maximisation algorithm to estimate
 parameters of the model. It is able to perform linking and deduplication of very large datasets
 of tens of millions of records with runtimes of less than an hour. [[source
-code]](https://github.com/moj-analytical-services/splink) `MIT` `Python` `Spark`
+code]](https://github.com/moj-analytical-services/splink) 
+![PyPI - License](https://img.shields.io/pypi/l/splink) `Python` `Spark`
 [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social&label=Star)](https://github.com/moj-analytical-services/splink)
 [![PyPI](https://img.shields.io/pypi/v/splink.svg)](https://pypi.python.org/pypi/splink/)
 
