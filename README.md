@@ -63,7 +63,9 @@ AtyImo implements a mixture of deterministic and probabilistic routines for data
 linkage. Initially developed in 2013 to serve as a linkage tool supporting a joint 
 Brazil–U.K. project aiming at building a large population-based cohort with data 
 from more than 100 million participants and producing disease-specific data to facilitate 
-diverse epidemiological research studies. `MIT` `Python` `Spark` 
+diverse epidemiological research studies. 
+
+![GitHub](https://img.shields.io/github/license/pierrepita/atyimo) `Python` `Spark` 
 [![GitHub stars](https://img.shields.io/github/stars/pierrepita/atyimo.svg?style=social&label=Star)](https://github.com/pierrepita/atyimo)
 
 #### [Dedupe](https://github.com/dedupeio/dedupe)
@@ -130,7 +132,8 @@ moment. [[source code]](https://github.com/RobinL/fuzzymatcher)
 
 Java gEneric DAta Integration (JedAI) Toolkit is a Entity Resolution Tool
 developed by a group of univeristies. JedAI offers a Graphical User Interface.
-[[source code]](https://github.com/scify/JedAIToolkit) `Apache License 2.0`
+[[source code]](https://github.com/scify/JedAIToolkit) 
+![GitHub](https://img.shields.io/github/license/scify/JedAIToolkit)
 `Java`
 
 #### [PRIL](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) 
@@ -139,7 +142,8 @@ PRIL (Point-of-contact Interactive Record Linkage) is a record linkage program
 with a GUI. PRIL can be used to link datasets about individuals. ([Rentsch CT,
 Kabudula CW, Catlett J et al.,
 2017](https://gatesopenresearch.org/articles/1-8/v1)) [[source
-code]](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) `MIT`
+code]](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware)
+![GitHub](https://img.shields.io/github/license/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware)
 `SQLPL`
 [![GitHub stars](https://img.shields.io/github/stars/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware.svg?style=social&label=Star)](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware)
 
