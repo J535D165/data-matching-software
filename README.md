@@ -77,6 +77,7 @@ Dedupeio also offers commercial products for data matching.
 ![PyPI - License](https://img.shields.io/pypi/l/dedupe) `Python` 
 [![GitHub stars](https://img.shields.io/github/stars/dedupeio/dedupe.svg?style=social&label=Star)](https://github.com/dedupeio/dedupe)
 [![PyPI](https://img.shields.io/pypi/v/dedupe.svg)](https://pypi.python.org/pypi/dedupe/)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/dedupe)
 
 #### [fastLink](https://cran.r-project.org/web/packages/fastLink/index.html)
 
@@ -91,6 +92,8 @@ code]](https://github.com/kosukeimai/fastLink)
 ![CRAN/METACRAN](https://img.shields.io/cran/l/fastLink) `R` 
 [![GitHub stars](https://img.shields.io/github/stars/kosukeimai/fastLink.svg?style=social&label=Star)](https://github.com/kosukeimai/fastLink)
 [![CRAN](https://img.shields.io/cran/v/fastLink.svg)](https://cran.r-project.org/web/packages/fastLink/index.html)
+[![metacran downloads](https://cranlogs.r-pkg.org/badges/last-month/fastLink)](https://cran.r-project.org/package=fastLink)
+
 
 #### [FEBRL](https://sourceforge.net/projects/febrl/)
 
@@ -121,6 +124,7 @@ moment. [[source code]](https://github.com/RobinL/fuzzymatcher)
 ![PyPI - License](https://img.shields.io/pypi/l/fuzzymatcher) `Python` 
 [![GitHub stars](https://img.shields.io/github/stars/RobinL/fuzzymatcher.svg?style=social&label=Star)](https://github.com/RobinL/fuzzymatcher)
 [![PyPI](https://img.shields.io/pypi/v/fuzzymatcher.svg)](https://pypi.python.org/pypi/fuzzymatcher/)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/fuzzymatcher)
 
 #### [JedAI](http://jedai.scify.org/) 
 
@@ -150,6 +154,7 @@ small or medium sized files.
 ![PyPI - License](https://img.shields.io/pypi/l/recordlinkage) `Python` 
 [![GitHub stars](https://img.shields.io/github/stars/J535D165/recordlinkage.svg?style=social&label=Star)](https://github.com/J535D165/recordlinkage)
 [![PyPI](https://img.shields.io/pypi/v/recordlinkage.svg)](https://pypi.python.org/pypi/recordlinkage/)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/recordlinkage)
 
 
 #### [RecordLinkage (R)](https://cran.r-project.org/web/packages/RecordLinkage/index.html) 
@@ -157,17 +162,23 @@ small or medium sized files.
 Package written in R that provides functions for linking and de-duplicating
 data sets. Both supervised and unsupervised classification algorithms are
 available. Record pairs can be compared with a limited set of algorithms. The
-package is published on CRAN. ![CRAN/METACRAN](https://img.shields.io/cran/l/RecordLinkage) `R` 
+package is published on CRAN. 
+![CRAN/METACRAN](https://img.shields.io/cran/l/RecordLinkage) `R` 
 [![CRAN](https://img.shields.io/cran/v/RecordLinkage.svg)](https://cran.r-project.org/web/packages/RecordLinkage/index.html)
+[![metacran downloads](https://cranlogs.r-pkg.org/badges/last-month/RecordLinkage)](https://cran.r-project.org/package=RecordLinkage)
 
 #### [Reclin2](https://github.com/djvanderlaan/reclin2)
 
 Package written in R that provides functions for linking data sets. The framework offers
 the option to compute the weigths of the Fellegi-Sunter model. It doesn't implement an
 undersupervised algorithms to predict the cutoff. The
-package is published on CRAN. Formerly https://github.com/djvanderlaan/reclin. ![CRAN/METACRAN](https://img.shields.io/cran/l/reclin2) `R` 
+package is published on CRAN. Formerly https://github.com/djvanderlaan/reclin. 
+
+![CRAN/METACRAN](https://img.shields.io/cran/l/reclin2) `R` 
 [![GitHub stars](https://img.shields.io/github/stars/djvanderlaan/reclin2.svg?style=social&label=Star)](https://github.com/djvanderlaan/reclin2)
 [![CRAN](https://img.shields.io/cran/v/reclin2.svg)](https://cran.r-project.org/web/packages/reclin2/index.html)
+[![metacran downloads](https://cranlogs.r-pkg.org/badges/last-month/reclin2)](https://cran.r-project.org/package=reclin2)
+
 
 #### [RELAIS](https://www.istat.it/en/methods-and-tools/methods-and-it-tools/process/processing-tools/relais)
 
@@ -193,6 +204,7 @@ code]](https://github.com/moj-analytical-services/splink)
 ![PyPI - License](https://img.shields.io/pypi/l/splink) `Python` `Spark`
 [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social&label=Star)](https://github.com/moj-analytical-services/splink)
 [![PyPI](https://img.shields.io/pypi/v/splink.svg)](https://pypi.python.org/pypi/splink/)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/splink)
 
 #### [The Link King](http://www.the-link-king.com/) 
 
