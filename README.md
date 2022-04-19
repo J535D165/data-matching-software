@@ -45,6 +45,7 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 | [Reclin2](#reclin2)                           | R      |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :x:      |          :x:          |
 | [RELAIS](#relais)                                               | :x:    | :white_check_mark: | :white_check_mark: |  :grey_question:   |      :grey_question:      |     :white_check_mark:      |          :x:          |
 | [ReMaDDer](#remadder)                                           | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
+| [RLTK](#rltk) | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :x:      |          :x:          |
 | [Splink](#splink)                                               | PySpark|        :x:         | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
 
 
@@ -192,6 +193,17 @@ ReMaDDer is capable to perform fully automatic fuzzy record matching without
 human expert intervention, while attaining accuracy of human clerical review.
 NOTE: The software is free, but not open source and requires an internet
 connection to work.
+
+#### [RLTK](https://github.com/usc-isi-i2/rltk)
+
+The Record Linkage ToolKit (RLTK) is a general-purpose open-source record
+linkage package. The toolkit provides a full pipeline needed for record linkage
+and deduplication. 
+
+![PyPI - License](https://img.shields.io/pypi/l/rltk) `Python` 
+[![GitHub stars](https://img.shields.io/github/stars/usc-isi-i2/rltk.svg?style=social&label=Star)](https://github.com/usc-isi-i2/rltk)
+[![PyPI](https://img.shields.io/pypi/v/rltk.svg)](https://pypi.python.org/pypi/rltk/)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/rltk)
 
 #### [Splink](https://github.com/moj-analytical-services/splink)
 
