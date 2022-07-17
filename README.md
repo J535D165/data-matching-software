@@ -292,7 +292,7 @@ code]](https://github.com/moj-analytical-services/splink)
 |  |  |
 |---|---| 
 | License | ![PyPI - License](https://img.shields.io/pypi/l/splink) |
-| Language | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/splink) `Spark` | 
+| Language | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/splink) | 
 | Latest release | [![PyPI](https://img.shields.io/pypi/v/splink.svg)](https://pypi.python.org/pypi/splink/) |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/splink) |
 | GitHub stars | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social&label=Star)](https://github.com/moj-analytical-services/splink) |
