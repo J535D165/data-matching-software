@@ -47,7 +47,7 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 | [ReMaDDer](#remadder)                                           | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
 | [RLTK](#rltk) | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :x:      |          :x:          |
 | [Splink](#splink)                                               | PySpark|        :x:         | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
-
+| [Zingg](#zingg)                                               | Python|        :x:         | :white_check_mark: | :white_check_mark: |            :white_check_mark:            |      :x:     |          :x:          |
 
 :white_check_mark: Yes/Implemented
 :x: No/Not implemented
@@ -294,7 +294,18 @@ code]](https://github.com/moj-analytical-services/splink)
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/splink) |
 | GitHub stars | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social&label=Star)](https://github.com/moj-analytical-services/splink) |
 
+#### [Zingg](https://github.com/zinggAI/zingg)
 
+[Zingg](https://zingg.ai) is an open-source ML based tool for entity resolution with which analytics engineer and the data scientist can quickly integrate data silos and build unified views at scale. Zingg has the ability to connect to disparate data source, local and cloud file systems in any format, enterprise applications and relational, NoSQL and cloud databases and warehouses. It scales to large volume of data and you can define domain specific functions to improve matching.
+Not only Zingg support English as well as Chinese, Thai, Japanese, Hindi and other languages, it also has a very active [slack community](https://join.slack.com/t/zinggai/shared_invite/zt-w7zlcnol-vEuqU9m~Q56kLLUVxRgpOA) where people around the globe come and help and share their views.
+
+|  |  |
+|---|---| 
+| License | ![PyPI - License](https://img.shields.io/pypi/l/zingg) |
+| Language | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/zingg) `Spark` | 
+| Latest release | [![PyPI](https://img.shields.io/pypi/v/zingg.svg)](https://pypi.python.org/pypi/zingg/) |
+| Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/zingg) |
+| GitHub stars | [![GitHub stars](https://img.shields.io/github/stars/zinggAI/zingg.svg?style=social&label=Star)](https://github.com/zinggAI) |
 
 ## Outdated/ no longer available
 
