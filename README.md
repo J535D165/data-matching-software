@@ -47,6 +47,7 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 | [ReMaDDer](#remadder)                                           | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
 | [RLTK](#rltk) | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :x:      |          :x:          |
 | [Splink](#splink)                                               | PySpark|        :x:         | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
+| [Tilores](#tilores)                                             | GraphQL| :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |             :x:             |          :x:          |
 
 
 :white_check_mark: Yes/Implemented
@@ -294,7 +295,21 @@ code]](https://github.com/moj-analytical-services/splink)
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/splink) |
 | GitHub stars | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social&label=Star)](https://github.com/moj-analytical-services/splink) |
 
+#### [Tilores](https://tilores.io/)
 
+Tilores is a serverless, rule-based entity resolution software developed in golang running
+on AWS. The solution excels at the real-time deduplication and linking of similar, non-identical
+data, with no scaling limits. Data can be ingested and searched in real-time via its customizable
+GraphQL API. Linking, deduplication and searching runs in a highly concurrent manner. The
+public SaaS solution is free for small amounts of data.
+
+|  |  |
+|---|---| 
+| License | Custom |
+| Language | `Golang` | 
+| Latest release |  |
+| Downloads per month |  |
+| GitHub stars |  |
 
 ## Outdated/ no longer available
 
