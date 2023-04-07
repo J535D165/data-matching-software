@@ -47,7 +47,7 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 | [RELAIS](#relais)                                               | :x:    | :white_check_mark: | :white_check_mark: |  :grey_question:   |      :grey_question:      |     :white_check_mark:      |          :x:          |
 | [ReMaDDer](#remadder)                                           | :x:    | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
 | [RLTK](#rltk) | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :x:      |          :x:          |
-| [Splink](#splink)                                               | PySpark|        :x:         | :white_check_mark: | :white_check_mark: |            :x:            |     :white_check_mark:      |          :x:          |
+| [Splink](#splink)                                               | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
 | [Zingg](#zingg)                                               | Python|        :x:         | :white_check_mark: | :white_check_mark: |            :white_check_mark:            |      :x:     |          :x:          |
 
 :white_check_mark: Yes/Implemented
@@ -295,16 +295,19 @@ and deduplication.
 
 #### [Splink](https://github.com/moj-analytical-services/splink)
 
-Splink is a Python/PySpark package that implements Fellegi-Sunter's canonical model of
-record linkage in Apache Spark. It uses the Expectation Maximisation algorithm to estimate
-parameters of the model. It is able to perform linking and deduplication of very large datasets
-of tens of millions of records with runtimes of less than an hour. [[source
+Splink is a Python package for probabilistic record linkage at scale.
+It supports multiple backends to execute linkage jobs, including DuckDB
+Apache Spark and AWS Athena. It is able to perform linking and deduplication of very large datasets
+of tens of millions of records with runtimes of less than an hour, including 
+the clustering of results using connected components. It includes interactive tools
+to support the lifecycle of a linking project, from exploratory analysis through to
+diagnostics and quality assurance.[[source
 code]](https://github.com/moj-analytical-services/splink)
 
 |  |  |
 |---|---| 
 | License | ![PyPI - License](https://img.shields.io/pypi/l/splink) |
-| Language | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/splink) `Spark` | 
+| Language | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/splink) | 
 | Latest release | [![PyPI](https://img.shields.io/pypi/v/splink.svg)](https://pypi.python.org/pypi/splink/) |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/splink) |
 | GitHub stars | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social&label=Star)](https://github.com/moj-analytical-services/splink) |
