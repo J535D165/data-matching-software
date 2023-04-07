@@ -6,7 +6,7 @@
 - [Contributing](#contributing)
 
 This is a list of (Fuzzy) Data Matching software. The software in this list is
-open source and/or freely available.
+FOSS (Free and open-source software).
 
 The term data matching is used to indicate the procedure of bringing together
 information from two or more records that are believed to belong to the same
