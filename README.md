@@ -34,6 +34,7 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 |:----------------------------------------------------------------|:-------|:------------------:|:------------------:|:------------------:|:-------------------------:|:---------------------------:|:---------------------:|
 | [AtyImo](#atyimo)		                                  | PySpark|         :x:	| :white_check_mark: | :white_check_mark: |            :x:            |             :x:               |          :x:          |
 | [Dedupe](#dedupe)                                               | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |             :x:             |  :white_check_mark:   |
+| [dirty-cat](#dirty-cat)                                               | Python|        :x:         | :white_check_mark: | :white_check_mark: |            :white_check_mark:            |      :white_check_mark:     |          :x:          |
 | [fastLink](#fastlink)                                           | R      |        :x:         | :white_check_mark: |  :grey_question:   |            :x:            |     :white_check_mark:      |          :x:          |
 | [FEBRL](#febrl)                                                 | Python | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |             :x:             |          :x:          |
 | [FRIL](#fril)                                                   | Java   | :white_check_mark: | :white_check_mark: |        :x:         |      :grey_question:      |     :white_check_mark:      |          :x:          |
@@ -49,7 +50,6 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 | [RLTK](#rltk) | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :x:      |          :x:          |
 | [Splink](#splink)                                               | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
 | [Zingg](#zingg)                                               | Python|        :x:         | :white_check_mark: | :white_check_mark: |            :white_check_mark:            |      :x:     |          :x:          |
-| [dirty-cat](#dirty-cat)                                               | Python|        :x:         | :white_check_mark: | :white_check_mark: |            :white_check_mark:            |      :white_check_mark:     |          :x:          |
 
 :white_check_mark: Yes/Implemented
 :x: No/Not implemented
