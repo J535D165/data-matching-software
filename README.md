@@ -34,6 +34,7 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 |:----------------------------------------------------------------|:-------|:------------------:|:------------------:|:------------------:|:-------------------------:|:---------------------------:|:---------------------:|
 | [AtyImo](#atyimo)		                                  | PySpark|         :x:	| :white_check_mark: | :white_check_mark: |            :x:            |             :x:               |          :x:          |
 | [Dedupe](#dedupe)                                               | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |             :x:             |  :white_check_mark:   |
+| [dirty-cat](#dirty-cat)                                               | Python|        :x:         | :white_check_mark: | :white_check_mark: |            :white_check_mark:            |      :white_check_mark:     |          :x:          |
 | [fastLink](#fastlink)                                           | R      |        :x:         | :white_check_mark: |  :grey_question:   |            :x:            |     :white_check_mark:      |          :x:          |
 | [FEBRL](#febrl)                                                 | Python | :white_check_mark: | :white_check_mark: | :white_check_mark: |            :x:            |             :x:             |          :x:          |
 | [FRIL](#fril)                                                   | Java   | :white_check_mark: | :white_check_mark: |        :x:         |      :grey_question:      |     :white_check_mark:      |          :x:          |
@@ -90,6 +91,19 @@ Dedupeio also offers commercial products for data matching.
 | Latest release | [![PyPI](https://img.shields.io/pypi/v/dedupe.svg)](https://pypi.python.org/pypi/dedupe/) |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/dedupe) |
 | GitHub stars | [![GitHub stars](https://img.shields.io/github/stars/dedupeio/dedupe.svg?style=social&label=Star)](https://github.com/dedupeio/dedupe) |
+
+#### [dirty-cat](https://github.com/dirty-cat/dirty_cat)
+
+[dirty-cat](https://dirty-cat.github.io/) is an open-source Python package that facilitates machine-learning with with dirty data: robust to morphological variants, such as typos. Some of the currently supported features are: fuzzy joining tables on dirty numerical, string or mixed type columns, deduplicating and encoding dirty categorical variables for ML. [This example](https://dirty-cat.github.io/stable/auto_examples/01_dirty_categories.html) illustrates why to use dirty-cat encoders rather than OneHotEncoder on dirty data and [this one](https://dirty-cat.github.io/stable/auto_examples/04_fuzzy_joining_and_FeatureAugmenter.html) shows how to join multiple dirty tables for ML.
+The transfomers ([TableVectorizer](https://dirty-cat.github.io/stable/generated/dirty_cat.TableVectorizer.html), [FeatureAugmenter](https://dirty-cat.github.io/stable/generated/dirty_cat.FeatureAugmenter.html)) are scikit-learn compatible, and easily introduced into ML pipelines.
+
+|  |  |
+|---|---| 
+| License | ![PyPI - License](https://img.shields.io/pypi/l/zingg) |
+| Language | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/zingg) `Spark` | 
+| Latest release | [![PyPI](https://img.shields.io/pypi/v/zingg.svg)](https://pypi.python.org/pypi/zingg/) |
+| Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/zingg) |
+| GitHub stars | [![GitHub stars](https://img.shields.io/github/stars/zinggAI/zingg.svg?style=social&label=Star)](https://github.com/zinggAI) |
 
 #### [fastLink](https://cran.r-project.org/web/packages/fastLink/index.html)
 
