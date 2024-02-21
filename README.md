@@ -42,6 +42,7 @@ Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)).
 | [hlink](#hlink)                                                 | PySpark|        :x:         | :white_check_mark: |  :grey_question:   |            :x:            |            :x:              |          :x:          |
 | [JedAI](#jedai)                                                 | Java   | :white_check_mark: | :white_check_mark: |  :grey_question:   |    :white_check_mark:     |       :grey_question:       |    :grey_question:    |
 | [PRIL](#pril)                                                   | SQL    |        :x:         | :white_check_mark: |  :grey_question:   |      :grey_question:      |       :grey_question:       |    :grey_question:    |
+| [pyJedAI](#pyjedai)                                             | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
 | [Python Record Linkage Toolkit](#python-record-linkage-toolkit) | Python |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
 | [RecordLinkage (R)](#recordlinkage-r)                           | R      |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :white_check_mark:      |          :x:          |
 | [Reclin2](#reclin2)                           | R      |        :x:         | :white_check_mark: | :white_check_mark: |    :white_check_mark:     |     :x:      |          :x:          |
@@ -216,6 +217,20 @@ code]](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware)
 | Latest release |  |
 | Downloads per month |  |
 | GitHub stars | [![GitHub stars](https://img.shields.io/github/stars/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware.svg?style=social&label=Star)](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) |
+
+#### [pyJedAI](https://pyjedai.readthedocs.io/) 
+
+pyJedAI is an open-source library that leverages Python’s data science ecosystem to build powerful end-to-end Entity Resolution workflows.
+[[source code]](https://github.com/AI-team-UoA/pyJedAI/tree/main)
+
+|  |  |
+|---|---| 
+| License | ![GitHub](https://img.shields.io/github/license/ai-team-uoa/pyJedAI) |
+| Language | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pyjedai) | 
+| Latest release | [![PyPI](https://img.shields.io/pypi/v/pyjedai.svg)](https://pypi.python.org/pypi/pyjedai/) |
+| Downloads per month |  ![PyPI - Downloads](https://img.shields.io/pypi/dm/pyjedai)  |
+| GitHub stars | [![GitHub stars](https://img.shields.io/github/stars/ai-team-uoa/pyJedAI.svg?style=social&label=Star)](https://github.com/scify/JedAIToolkit) |
+
 
 #### [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) 
 
